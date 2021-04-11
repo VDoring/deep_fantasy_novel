@@ -22,4 +22,4 @@ https://wikidocs.net/2826
 1.아나콘다 프롬프트로 들어가서 jupyter notebook을 입력한다. 그리고 그 프로젝트 폴더로 들어간다.
 ![image](https://user-images.githubusercontent.com/50266731/114316435-8f563000-9b3e-11eb-9035-084996bb905e.png)
 
-3. .ipynb 파일을 눌러서 Shift+Enter을 눌러서 실행하거나 실행버튼을 눌러 실행한다.
+2. .ipynb 파일을 눌러서 Shift+Enter을 눌러서 실행하거나 실행버튼을 눌러 실행한다.
