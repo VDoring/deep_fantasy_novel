@@ -1,5 +1,6 @@
 ## deep_fantasy_novel | Tensorflow와 Keras를 이용한 jupyter notebook 기반 소설 짓기 프로그램
 
+
 ### [원글과 설치법]
 https://www.youtube.com/watch?v=6eGyNifjcvg&t=343s
 
