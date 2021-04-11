@@ -11,3 +11,4 @@ https://devpad.tistory.com/39
 https://wikidocs.net/2826
 
 ###### 사용하려면 가장 먼저 아나콘다를 설치해야 합니다.
+###### txt파일 안의 소설의 양이 많으면 많을수록 좋습니다.
