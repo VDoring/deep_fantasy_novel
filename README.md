@@ -1,18 +1,16 @@
-## deep_fantasy_novel | Tensorflow와 Keras를 이용한 jupyter notebook 기반 소설 짓기 프로그램
-
+## deep_fantasy_novel | Tensorflow와 Keras를 이용한 소설 짓기 프로그램
+#### https://github.com/kairess/deep_fantasy_novel
 -----
 
 ### [원글과 설치법]
 https://www.youtube.com/watch?v=6eGyNifjcvg&t=343s
 
-https://github.com/kairess/deep_fantasy_novel/blob/master/train.ipynb
-
 https://devpad.tistory.com/39
 
 https://wikidocs.net/2826
 
-###### 사용하려면 가장 먼저 아나콘다를 설치해야 합니다.
-###### txt파일 안의 소설의 양이 많으면 많을수록 좋습니다.
+###### 사용하려면 아나콘다, 텐서플로우, 케라스를 설치해야 합니다.
+###### txt파일 안의 글의 양이 많으면 많을수록 좋습니다.
 
 -----
 
@@ -23,3 +21,5 @@ https://wikidocs.net/2826
 ![image](https://user-images.githubusercontent.com/50266731/114316435-8f563000-9b3e-11eb-9035-084996bb905e.png)
 
 2. .ipynb 파일을 눌러서 Shift+Enter을 눌러서 실행하거나 실행버튼을 눌러 실행한다.
+
+3. 다른 .txt파일을 사용하고싶으면 .ipynb파일의 path 변수 값을 .txt파일의 이름으로 변경한다.
