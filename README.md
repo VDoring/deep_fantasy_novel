@@ -9,6 +9,9 @@ https://devpad.tistory.com/39
 
 https://wikidocs.net/2826
 
+(여담)
+https://theorydb.github.io/dev/2020/02/14/dev-dl-setting-local-python/
+
 ###### 사용하려면 아나콘다, 텐서플로우, 케라스, 쥬피터 노트북을 설치해야 합니다.
 ###### txt파일 안의 글의 양이 많으면 많을수록 좋습니다.
 
